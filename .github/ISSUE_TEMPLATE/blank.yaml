@@ -1,0 +1,15 @@
+name: bored
+body:
+- type: markdown
+  attributes:
+    value: "## bored to do that, but for questions in case you cant use the discussion"
+- id: description
+  type: textarea
+  validations:
+    required: true
+  attributes:
+    label: '📍 text'
+    description: |
+      zzz...
+    placeholder: |
+      put a text here
