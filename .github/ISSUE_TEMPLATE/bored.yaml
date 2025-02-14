@@ -10,6 +10,6 @@ body:
   attributes:
     label: '📍 text'
     description: |
-      zzz...
+            boring
     placeholder: |
       put a text here
