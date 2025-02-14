@@ -1,4 +1,6 @@
 name: bored
+description: when you are bored to use discussions or reddit you can just write here
+labels: ["Bug", "Needs Triage"]
 body:
 - type: markdown
   attributes:
